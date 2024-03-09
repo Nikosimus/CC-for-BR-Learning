@@ -2,7 +2,7 @@
 
 This code comes jointly with reference
 
-> [1] "Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates" by Ahmad Rammal, Kaja Gruntkowska, Nikita Fedin, Eduard Gorbunov, Peter Richtárik. AISTATS 2024
+> [1] "Communication Compression for Byzantine Robust Learning: New Efficient Algorithms and Improved Rates". Ahmad Rammal, Kaja Gruntkowska, Nikita Fedin, Eduard Gorbunov, Peter Richtárik. AISTATS 2024
 
 Date:    March 2024
 
